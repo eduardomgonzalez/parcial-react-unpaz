@@ -29,7 +29,7 @@ class Filter extends React.Component {
         <h4>Filtro por {categoria}:</h4>
 
         <select
-          id="inputGroupSelect01"
+          /* id="inputGroupSelect01" */
           onChange={onChange}
           className="custom-select"
         >
